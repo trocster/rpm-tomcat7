@@ -16,7 +16,7 @@
 
 Summary:    Apache Servlet/JSP Engine, RI for Servlet 2.4/JSP 2.0 API
 Name:       tomcat7
-Version:    7.0.77
+Version:    7.0.78
 BuildArch:  noarch
 Release:    1
 License:    Apache Software License
